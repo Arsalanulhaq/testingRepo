@@ -23,5 +23,6 @@
             "url": "https://github.com/Arsalanulhaq/testingRepo"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
